@@ -29,4 +29,4 @@ Alapötlet. És a promptok. Nem szerkesztettem a szöveget vagy ábrákat.
 Nem lett tökéletes, de nem rossz. 
 
 ## Végeredmény
-[https://gaborbekes.com/otoslotto/](https://gaborbekes.com/otoslotto/])
+[https://gaborbekes.com/otoslotto/](https://gaborbekes.com/otoslotto/)
