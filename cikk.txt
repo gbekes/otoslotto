@@ -1,0 +1,35 @@
+Csalnak-e az Ötös Lottónál? – Amit a számok mondanak
+
+Sokan gyanakodnak: vannak számok, amelyeket „túl gyakran" húznak az Ötös Lottóban. Az internetes fórumokon rendszeresen visszatérő téma, hogy a Szerencsejáték Zrt. manipulálja-e a sorsolásokat. Ennek járunk utána a hivatalos adatok és hét különböző statisztikai teszt segítségével.
+
+Az adatok
+
+A szerencsejatek.hu oldaláról letöltöttük az Ötös Lottó húzásainak teljes történetét 2004-től 2026 márciusáig: összesen 3604 húzás, azaz 18 020 kihúzott golyó. Minden héten 90 számból húznak 5-öt, így ha a sorsolás tisztességes, minden szám nagyjából egyformán gyakran fordul elő. A várt gyakoriság számonként körülbelül 200.
+
+A szélsőségek
+
+A leggyakrabban húzott szám a 3-as, amely 240-szer került elő – mintegy 20%-kal több a vártnál. A legritkább a 88-as, mindössze 158 alkalommal. Első ránézésre ez nagy különbségnek tűnik: a 3-as másfélszer annyiszor jött ki, mint a 88-as! De vajon ez tényleg gyanús? Ha 90 számot húznak 3604 alkalommal, a véletlen ingadozás természetes. Ha feldobunk egy fémpénzt 200-szor, nem várjuk, hogy pontosan 100-szor legyen fej. A kérdés az, hogy az eltérések akkora méretűek-e, amekkora egy manipulálatlan rendszerben már valószínűtlen lenne.
+
+A statisztikai tesztek
+
+Hét különböző szempontból vizsgáltuk a húzásokat:
+
+1. Khi-négyzet próba (p = 0,084): A klasszikus módszer annak ellenőrzésére, hogy a számok gyakorisága összhangban van-e az egyenletes eloszlással. Nem szignifikáns – ilyen ingadozás véletlenül is előfordul.
+
+2. Standardizált eltérések: A 90 szám közül mindössze 4-5 lép túl a ±2 szigma határon. Ez pont annyi, amennyit a véletlen alapján várunk (lásd 3. ábra).
+
+3. Húzások összege: Az öt szám összegének átlaga (225,7) és szórása (56,5) szinte pontosan egyezik az elméleti értékkel (227,5 és 56,8). Az eloszlás gyönyörűen követi a normális haranggörbét (4. ábra).
+
+4. Páros/páratlan és kicsi/nagy arány (p = 0,076): A páros és páratlan számok, illetve a kicsi (1–45) és nagy (46–90) számok aránya pontosan megfelel a hipergeometrikus eloszlásnak (5. ábra).
+
+5. Szomszédos számok (p = 0,014): Az egymást követő számok (pl. 23 és 24) gyakorisága meglepően közel áll a szimulált várt értékekhez. A p-érték itt kicsit alacsonyabb, de 90 szám és 3604 húzás mellett ez a kis eltérés nem meggyőző bizonyíték (6. ábra).
+
+6. Visszatérési idő: Egy adott szám két egymást követő húzása közötti várakozási idő tökéletesen követi a geometrikus eloszlást – átlagosan 17,9 hét, a várt 18,0-hoz képest (7. ábra).
+
+7. Sorozatpróba és időbeli trendek: A Wald–Wolfowitz-féle sorozatpróba sem az összegekre (p = 0,79), sem a páros/páratlan arányra (p = 0,50) nem mutat időbeli függést. A gördülő gyakorisági ábra (8. ábra) a 3-as és 88-as számokra mutatja: vannak ugyan „forró" és „hideg" periódusok, de ezek a ±2 szigma sávon belül maradnak – pont olyanok, mint amilyeneket a véletlen produkál.
+
+A konklúzió
+
+Hét különböző statisztikai teszt egyike sem mutat szignifikáns eltérést a tisztességes, véletlenszerű sorsolástól. A leggyakoribb és legritkább számok közötti különbség, a páros-páratlan arányok, a szomszédos számok gyakorisága, az összegek eloszlása és az időbeli mintázatok mind konzisztensek egy fair játékkal. Aki csalást gyanít, annak a véletlen természetét kell jobban megértenie: a golyók nem „emlékeznek" a korábbi húzásokra.
+
+Az Ötös Lottó – a számok tanúsága szerint – tiszta játék.

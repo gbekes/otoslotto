@@ -1,0 +1,40 @@
+Ötös Lottó statisztikai elemzés – összefoglaló
+==================================================
+
+Húzások száma                 : 3604
+Összes húzott golyó           : 18020
+Várt gyakoriság/szám          : 200.2
+Leggyakoribb szám             : 3 (240x)
+Legritkább szám               : 88 (158x)
+Khi-négyzet                   : 107.99
+Khi-négyzet p-érték           : 0.0835
+KS-teszt statisztika          : 0.0125
+KS-teszt p-érték              : 0.0069
+
+
+Top 10 leggyakoribb szám:
+    3: 240x
+   15: 229x
+   29: 227x
+   75: 227x
+   77: 226x
+    1: 225x
+   42: 223x
+   55: 222x
+   13: 221x
+   86: 221x
+
+Top 10 legritkább szám:
+   88: 158x
+   63: 164x
+   87: 170x
+   80: 174x
+   82: 175x
+   40: 179x
+    5: 180x
+   48: 181x
+   70: 182x
+   89: 182x
+
+Konklúzió: A khi-négyzet próba p-értéke 0.0835.
+Ez nem szignifikáns (p > 0.05), tehát nincs statisztikai bizonyíték csalásra.

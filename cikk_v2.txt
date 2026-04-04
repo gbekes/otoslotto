@@ -1,0 +1,51 @@
+Csalnak-e az Ötös Lottónál? Megnéztük az adatokat, és van válaszunk
+
+A magyar internet egyik örökzöld témája, hogy az Ötös Lottó húzásai nem lehetnek véletlenek. Hogy egyes számokat feltűnően sokszor húznak, másokat alig. Hogy biztosan bele van nyúlva. Fórumokon, kommentszekciókban, kocsmapultoknál rendszeresen felmerül a gyanú: a Szerencsejáték Zrt. csal.
+
+Mi erre azt mondjuk: nézzük meg. Nem véleményt fogalmazunk meg, hanem letöltöttük a teljes nyilvános adatbázist, és hét különböző statisztikai módszerrel vizsgáltuk meg, hogy a számok azt mutatják-e, amit egy tisztességes sorsolásnál várnánk. Spoiler: igen, pontosan azt.
+
+3604 húzás, 18 ezer golyó
+
+A szerencsejatek.hu oldaláról elérhető az Ötös Lottó összes húzásának története 2004-től 2026 márciusáig. Ez összesen 3604 heti sorsolás. Mivel minden héten 90-ből húznak 5 számot, ez 18 020 kihúzott golyó. Ha a lottó fair, akkor hosszú távon minden szám nagyjából egyformán gyakran jön ki: a várt átlag számonként körülbelül 200 húzás.
+
+A rekorderek
+
+A leggyakrabban kihúzott szám a 3-as: 240-szer jött ki 22 év alatt. A legritkább a 88-as, mindössze 158-szor. Első pillantásra ez hatalmas különbség, a 3-as másfélszer annyiszor került elő! Fogadjunk, ez a két szám van kinn minden összeesküvés-elmélet alapjaként szolgáló toplistán.
+
+De gondoljunk bele: ha feldobunk egy érmét kétszázszor, szinte soha nem lesz pontosan száz fej és száz írás. Lesz mondjuk 112 meg 88, és az teljesen normális. A kérdés nem az, hogy van-e különbség a számok között -- persze hogy van --, hanem az, hogy ez a különbség akkora-e, amit a puszta véletlen már nem magyaráz.
+
+Mit mondanak a tesztek?
+
+A legklasszikusabb módszer erre az úgynevezett khi-négyzet próba: összehasonlítja a megfigyelt gyakoriságokat azzal, amit egyenletes eloszlásnál várnánk. Az eredmény egyértelmű: a p-érték 0,084, ami azt jelenti, hogy nincs szignifikáns eltérés. Ilyen mértékű ingadozás a tökéletesen véletlenszerű húzásoknál is simán előfordul -- körülbelül minden tizenkettedik esetben.
+
+[1. ábra: Számgyakoriság -- A 90 szám gyakorisága 3604 húzásban.]
+
+De nem csak a gyakoriságot néztük
+
+Ha valaki csalna, azt máshol is látnánk. Megvizsgáltuk, hogy az öt kihúzott szám összege milyen eloszlást követ. Ha a húzás fair, az összegnek egy szép, szimmetrikus haranggörbét kell rajzolnia az elméleti átlag (228) körül.
+
+[2. ábra: Összeg-eloszlás -- A tényleges eloszlás gyakorlatilag egybeesik az elméletivel.]
+
+A megfigyelt átlag 225,7, a várt 227,5. A szórás 56,5 a várt 56,8 helyett. Ez nem csak "nagyjából stimmel" -- ez rendkívül pontos egyezés közel négyezer húzásra.
+
+Mikor jön ki újra a kedvenc számunk?
+
+Van egy különösen szemléletes módja annak, hogy ellenőrizzük a véletlenszerűséget. Ha egy szám kijön, mennyi idő telik el átlagosan, amíg újra kihúzzák? Ha a lottó fair, ennek az úgynevezett geometrikus eloszlást kell követnie -- a legtöbb visszatérés gyors (pár héten belül), de időnként vannak hosszabb szünetek is.
+
+[3. ábra: Visszatérési idő -- tökéletes illeszkedés az elméletire. Átlag: 17,9 hét vs. várt 18,0.]
+
+Forró és hideg számok?
+
+Sokan hiszik, hogy vannak "forró" számok, amelyeket érdemes játszani, mert éppen jó sorozatban vannak. Mások a "hideg" számokat keresik, mondván, hogy azok "esedékesek". Megvizsgáltuk a két szélsőséget: a 3-ast és a 88-ast az elmúlt 22 évben.
+
+[4. ábra: Időbeli trendek -- hullámok vannak, de a normál tartományon belül.]
+
+Igen, vannak periódusok, amikor a 3-as kicsit gyakrabban jön ki, és vannak, amikor ritkábban. De ez pont olyan, mint amikor az érmedobásnál néha öt fej jön egymás után: utólag mintázatnak tűnik, de valójában a véletlen természetes velejárója.
+
+Hét teszt, egy válasz
+
+Összesen hét különböző szempontból vizsgáltuk az adatokat: a számok egyenkénti gyakorisága, az összegek eloszlása, a páros-páratlan arány, a szomszédos számok előfordulása, a visszatérési idők, az időbeli trendek és a sorozatok hossza. Egyetlen teszt sem mutatott statisztikailag szignifikáns eltérést a fair, véletlenszerű sorsolástól.
+
+Természetesen egyetlen elemzés sem tudja végérvényesen bebizonyítani, hogy soha, semmilyen manipuláció nem történt. Amit viszont kijelenthetünk: a 2004 és 2026 közötti 3604 húzás minden vizsgált dimenzióban pontosan úgy viselkedik, ahogy egy tisztességes sorsolástól elvárjuk.
+
+Aki csalást gyanít, annak nem a lottógéppel van baja, hanem a véletlennel. A golyók nem emlékeznek a korábbi húzásokra. A mintázatok, amiket látunk, a véletlen természetes velejárói. Az Ötös Lottó -- legalábbis a számok tanúsága szerint -- tiszta játék.

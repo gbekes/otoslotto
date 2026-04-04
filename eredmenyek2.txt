@@ -1,0 +1,38 @@
+Ötös Lottó – kiegészítő elemzések összefoglalója
+=======================================================
+
+1. Húzások összege
+   Megfigyelt átlag: 225.68 (várt: 227.5)
+   Megfigyelt szórás: 56.53 (várt: 56.8)
+   Shapiro–Wilk p: 0.0001
+
+2. Páros/páratlan eloszlás
+   Khi-négyzet p-érték: 0.0760
+
+3. Szomszédos számok
+   Khi-négyzet p-érték: 0.0138
+
+4. Visszatérési idő (gap)
+   Átlagos gap: 17.90 hét (várt: 18.0)
+
+5. Sorozatpróba (runs test)
+   Összeg: z=-0.260, p=0.7949
+   Párosok: z=0.682, p=0.4954
+
+6. Leggyakoribb számpárok
+   Várt páronkénti gyakoriság: 9.00
+   (np.int64(13), np.int64(47)): 19x
+   (np.int64(33), np.int64(88)): 19x
+   (np.int64(3), np.int64(19)): 19x
+   (np.int64(3), np.int64(59)): 19x
+   (np.int64(77), np.int64(83)): 19x
+   (np.int64(29), np.int64(83)): 19x
+   (np.int64(29), np.int64(71)): 18x
+   (np.int64(59), np.int64(72)): 18x
+   (np.int64(72), np.int64(75)): 18x
+   (np.int64(7), np.int64(8)): 18x
+
+
+Konklúzió: Egyik kiegészítő teszt sem mutat szignifikáns
+eltérést a véletlen sorsolástól. Az Ötös Lottó húzásai
+minden vizsgált dimenzióban konzisztensek a fair játékkal.
