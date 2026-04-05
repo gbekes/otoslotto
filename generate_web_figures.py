@@ -57,7 +57,7 @@ ax.axhline(expected + 2*sigma, color="#636e72", linewidth=0.9, linestyle=":",
 ax.axhline(expected - 2*sigma, color="#636e72", linewidth=0.9, linestyle=":")
 ax.set_xlabel("Lottószám (1–90)")
 ax.set_ylabel("Hányszor húzták ki")
-ax.set_title(f"Melyik számot hányszor húzták ki? ({n} húzás, 2004–2026)")
+ax.set_title(f"Melyik sz\u00e1mot h\u00e1nyszor h\u00fazt\u00e1k ki? ({n} h\u00faz\u00e1s, 1957\u20132026)")
 ax.legend(fontsize=11)
 ax.set_xlim(0, 91)
 fig.savefig(OUT / "szamgyakorisag.png")

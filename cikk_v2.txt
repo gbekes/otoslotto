@@ -6,11 +6,11 @@ Mi erre azt mondjuk: nézzük meg. Nem véleményt fogalmazunk meg, hanem letöl
 
 3604 húzás, 18 ezer golyó
 
-A szerencsejatek.hu oldaláról elérhető az Ötös Lottó összes húzásának története 2004-től 2026 márciusáig. Ez összesen 3604 heti sorsolás. Mivel minden héten 90-ből húznak 5 számot, ez 18 020 kihúzott golyó. Ha a lottó fair, akkor hosszú távon minden szám nagyjából egyformán gyakran jön ki: a várt átlag számonként körülbelül 200 húzás.
+A szerencsejatek.hu oldaláról elérhető az Ötös Lottó összes húzásának története az 1957-es indulástól 2026 márciusáig. Ez összesen 3604 heti sorsolás. Mivel minden héten 90-ből húznak 5 számot, ez 18 020 kihúzott golyó. Ha a lottó fair, akkor hosszú távon minden szám nagyjából egyformán gyakran jön ki: a várt átlag számonként körülbelül 200 húzás.
 
 A rekorderek
 
-A leggyakrabban kihúzott szám a 3-as: 240-szer jött ki 22 év alatt. A legritkább a 88-as, mindössze 158-szor. Első pillantásra ez hatalmas különbség, a 3-as másfélszer annyiszor került elő! Fogadjunk, ez a két szám van kinn minden összeesküvés-elmélet alapjaként szolgáló toplistán.
+A leggyakrabban kihúzott szám a 3-as: 240-szer jött ki közel 70 év alatt. A legritkább a 88-as, mindössze 158-szor. Első pillantásra ez hatalmas különbség, a 3-as másfélszer annyiszor került elő! Fogadjunk, ez a két szám van kinn minden összeesküvés-elmélet alapjaként szolgáló toplistán.
 
 De gondoljunk bele: ha feldobunk egy érmét kétszázszor, szinte soha nem lesz pontosan száz fej és száz írás. Lesz mondjuk 112 meg 88, és az teljesen normális. A kérdés nem az, hogy van-e különbség a számok között -- persze hogy van --, hanem az, hogy ez a különbség akkora-e, amit a puszta véletlen már nem magyaráz.
 
@@ -36,7 +36,7 @@ Van egy különösen szemléletes módja annak, hogy ellenőrizzük a véletlens
 
 Forró és hideg számok?
 
-Sokan hiszik, hogy vannak "forró" számok, amelyeket érdemes játszani, mert éppen jó sorozatban vannak. Mások a "hideg" számokat keresik, mondván, hogy azok "esedékesek". Megvizsgáltuk a két szélsőséget: a 3-ast és a 88-ast az elmúlt 22 évben.
+Sokan hiszik, hogy vannak "forró" számok, amelyeket érdemes játszani, mert éppen jó sorozatban vannak. Mások a "hideg" számokat keresik, mondván, hogy azok "esedékesek". Megvizsgáltuk a két szélsőséget: a 3-ast és a 88-ast az elmúlt közel 70 évben.
 
 [4. ábra: Időbeli trendek -- hullámok vannak, de a normál tartományon belül.]
 
@@ -46,6 +46,6 @@ Hét teszt, egy válasz
 
 Összesen hét különböző szempontból vizsgáltuk az adatokat: a számok egyenkénti gyakorisága, az összegek eloszlása, a páros-páratlan arány, a szomszédos számok előfordulása, a visszatérési idők, az időbeli trendek és a sorozatok hossza. Egyetlen teszt sem mutatott statisztikailag szignifikáns eltérést a fair, véletlenszerű sorsolástól.
 
-Természetesen egyetlen elemzés sem tudja végérvényesen bebizonyítani, hogy soha, semmilyen manipuláció nem történt. Amit viszont kijelenthetünk: a 2004 és 2026 közötti 3604 húzás minden vizsgált dimenzióban pontosan úgy viselkedik, ahogy egy tisztességes sorsolástól elvárjuk.
+Természetesen egyetlen elemzés sem tudja végérvényesen bebizonyítani, hogy soha, semmilyen manipuláció nem történt. Amit viszont kijelenthetünk: az 1957 és 2026 közötti 3604 húzás minden vizsgált dimenzióban pontosan úgy viselkedik, ahogy egy tisztességes sorsolástól elvárjuk.
 
 Aki csalást gyanít, annak nem a lottógéppel van baja, hanem a véletlennel. A golyók nem emlékeznek a korábbi húzásokra. A mintázatok, amiket látunk, a véletlen természetes velejárói. Az Ötös Lottó -- legalábbis a számok tanúsága szerint -- tiszta játék.
