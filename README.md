@@ -29,4 +29,16 @@ Alapötlet. És a promptok. Nem szerkesztettem a szöveget vagy ábrákat.
 Nem lett tökéletes, de nem rossz. 
 
 ## Végeredmény
+
 [https://gaborbekes.com/otoslotto/](https://gaborbekes.com/otoslotto/)
+
+## Alapos cucc
+Na aztán arra gondoltam legyen egy bővebb anyag. 
+
+```
+Okés. Csináljunk most egy bővebb anyagot. Legyen több magyarázat, hogy melyik teszt pontosan mire jó. És legyen szebb, interaktív ha lehet. Minden legyen viridis. Nem kockáknak szól, de olyanoknak akik érdeklődnek tudomány, számok iránt. otoslotto-alaposan legyen minden nev
+```
+
+És ime:
+
+[https://gaborbekes.com/otoslotto-alaposan/](https://gaborbekes.com/otoslotto-alaposan/)
